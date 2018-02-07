@@ -1,2 +1,5 @@
 # hello-world
-Leaqrning the Git
+Learning the Git
+
+Fixing the headline
+This is nice
