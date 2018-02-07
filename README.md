@@ -1,5 +1,5 @@
 # hello-world
 Learning the Git
 
-Fixing the healine
+Fixing the headline
 This is nice
